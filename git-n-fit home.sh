@@ -1,4 +1,4 @@
-echo "Welcome, to Git'n-fit a Github repository saftey generator! In order to do your first git'n-fit you need to create an account."
+echo "Welcome, to Git'n-fit a Github repository saftey generator! In order to do your first git'n-fit you need to create an account. Every time you visit git'n-fit you will need to create an new account!"
 
 read -p "What is your username?: " user_keep
 echo "Hello, $user_keep!"
